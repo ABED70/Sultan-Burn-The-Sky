@@ -1,0 +1,31 @@
+{
+    "name": "Sultan Abed \u2013 Burn The Sky",
+    "symbol": "EGL-BTS",
+    "description": "Official NFT of Sultan Abed \u2013 Burn The Sky \ud83e\udd85\ud83d\udd25. Military\u2013Financial front capturing the moment of eagle hunting currencies during cinematic desert sunset.",
+    "image": "ipfs://YOUR_IMAGE_HASH",
+    "edition": "1/1",
+    "attributes": [
+        {
+            "trait_type": "Location",
+            "value": "Desert Sunset"
+        },
+        {
+            "trait_type": "Theme",
+            "value": "Military\u2013Financial Front"
+        },
+        {
+            "trait_type": "Symbol",
+            "value": "Eagle in Burn Event"
+        },
+        {
+            "trait_type": "Mood",
+            "value": "Cinematic Golden Hour"
+        }
+    ],
+    "tags": [
+        "#BurnTheSky",
+        "#EGL",
+        "#EagleFlyHigh",
+        "#HuntTheChance"
+    ]
+}
